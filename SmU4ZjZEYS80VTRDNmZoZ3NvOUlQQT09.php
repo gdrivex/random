@@ -1,4 +1,4 @@
-$meta = file_get_contents("https://raw.githubusercontent.com/gdrivex/random/main/VkcvbW9URHdtUjI3amo3SFZoZ214QT09.html");
+$meta = file_get_contents("https://raw.githubusercontent.com/gdrivex/random/main/VkcvbW9URHdtUjI3amo3SFZoZ214QT09.json");
 $channel_meta = json_decode($meta);
 $a1 = $channel_meta->a1;
 $a2 = $channel_meta->a2;
