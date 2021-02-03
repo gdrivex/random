@@ -1,1 +1,1 @@
-{"update":"New version of GDrive-X Premium is available. <a style='color:red' href='https://gdrivex.herokuapp.com/gp/' target='_blank'><b><u>Update GDrive-X Premium</u></b></a>","color":"red"}
+{"update":"You have latest version of GDrive-X Premium.","color":"green"}
