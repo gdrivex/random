@@ -1,1 +1,1 @@
-2.0
+{"update":"You have latest version of GDrive-X Premium","color":"green"}
