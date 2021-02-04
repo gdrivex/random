@@ -1,1 +1,1 @@
-{"update":"You have latest version of GDrive-X Premium.","color":"green"}
+{"update":"Latest version of GDrive-X Premium is installed.","color":"green"}
